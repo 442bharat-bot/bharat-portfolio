@@ -1,0 +1,1 @@
+# Upload this folder to GitHub, then import to Vercel (Framework: Vite, Build: npm run build, Output: dist).
